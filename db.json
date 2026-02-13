@@ -7,7 +7,7 @@
       "discount": 10,
       "stock": 35,
       "unit": "VND",
-      "img": "cafe_hat_moc_trung_nguyen.jpg",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/cafe_hat_moc_trung_nguyen.jpg",
       "desc": "Thể chất đậm, mạnh, gu truyền thống",
       "status": "Còn bán"
     },
