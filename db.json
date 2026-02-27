@@ -1,106 +1,452 @@
 {
   "CAFE_BEANS": [
     {
-      "id": 17,
+      "id": 1,
+      "name_cafe": "Cafe Arabica",
+      "price": 200000,
+      "discount": 5,
+      "stock": 10,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe_arabica.jpg",
+      "desc": "Hương hoa quả, chua thanh",
+      "status": "Còn bán"
+    },
+    {
+      "id": 2,
+      "name_cafe": "Cherry (Cafe mít)",
+      "price": 250000,
+      "discount": 10,
+      "stock": 20,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cherry.jpg",
+      "desc": "Hương vị lạ, chua đậm trưng",
+      "status": "Còn bán"
+    },
+    {
+      "id": 3,
+      "name_cafe": "Catimor",
+      "price": 300000,
+      "discount": 10,
+      "stock": 10,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/catimor.jpg",
+      "desc": "Mùi thơm nồng, hương vị hơi chua",
+      "status": "Còn bán"
+    },
+    {
+      "id": 4,
+      "name_cafe": "Cafe chồn (Kopi luwak)",
+      "price": 500000,
+      "discount": 10,
+      "stock": 5,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe_chon_kopi_luwak.jpg",
+      "desc": "Hương thơm dịu, chua nhẹ, hậu vị ngọt",
+      "status": "Còn bán"
+    },
+    {
+      "id": 5,
+      "name_cafe": "Cafe Colombia Supremo",
+      "price": 230000,
+      "discount": 5,
+      "stock": 20,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/coffee_colombia.jpg",
+      "desc": "Vị chocolate đậm đà hương thơm",
+      "status": "Còn bán"
+    },
+    {
+      "id": 6,
+      "name_cafe": "Cafe Robusta",
+      "price": 260000,
+      "discount": 10,
+      "stock": 20,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe_robusta.jpg",
+      "desc": "Vị đắng đậm đà, hậu vị ngọt, cafein cao",
+      "status": "Còn bán"
+    },
+    {
+      "id": 7,
+      "name_cafe": "Cafe hạt xay Drip – Culi Arabica",
+      "price": 800000,
+      "discount": 5,
+      "stock": 10,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/drip_culi_arabica.jpg",
+      "desc": "Vị êm nhẹ, ít đắng và mùi thơm rất đặc trưng",
+      "status": "Còn bán"
+    },
+    {
+      "id": 8,
+      "name_cafe": "Cafe Moka Chồn",
+      "price": 600000,
+      "discount": 10,
+      "stock": 40,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe_chon_moka.jpg",
+      "desc": "Hương vị chua thanh, hậu vị ngọt quyến rũ độc đáo",
+      "status": "Còn bán"
+    },
+    {
+      "id": 9,
+      "name_cafe": "Cafe rang xay King Inspire Blend",
+      "price": 200000,
+      "discount": 5,
+      "stock": 5,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe_king_inspire_blend.jpg",
+      "desc": "Pha trộn hương vị của 4 loại Arabica, Robusta, Excelsa & Catimor",
+      "status": "Còn bán"
+    },
+    {
+      "id": 10,
+      "name_cafe": "Cafe Italian Espresso",
+      "price": 210000,
+      "discount": 5,
+      "stock": 5,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/espresso_bean.jpg",
+      "desc": "Vị mạnh, đắng rõ, ít chua, hậu vị dày",
+      "status": "Hết hàng"
+    },
+    {
+      "id": 11,
+      "name_cafe": "Cafe Liberica",
+      "price": 260000,
+      "discount": 5,
+      "stock": 10,
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe-liberica.jpg",
+      "desc": "Vị chua thanh, hậu vị đắng nhẹ, mùi thơm thoang thoảng giống mít",
+      "status": "Còn bán"
+    },
+    {
+      "id": 12,
       "name_cafe": "Cafe Hạt Mộc Trung Nguyên",
       "price": 250000,
       "discount": 10,
       "stock": 35,
       "unit": "VND",
-      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/cafe_hat_moc_trung_nguyen.jpg",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe_hat_moc_trung_nguyen.jpg",
       "desc": "Thể chất đậm, mạnh, gu truyền thống",
       "status": "Còn bán"
     },
     {
-      "id": 18,
+      "id": 13,
       "name_cafe": "Cafe Hạt Rang Full City Roast Highlands Coffee",
       "price": 300000,
       "discount": 5,
       "stock": 19,
       "unit": "VND",
-      "img": "cafe-hat-rang-full-city-roast-highlands-coffee.jpg",
-      "desc": "Vị dễ uống, độ đậm vừa đủ, nhẹ cùng hậu vị chua thanh",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe-hat-rang-full-city-roast-highlands-coffe.jpg",
+      "desc": "Vị dễ uống, độ đậm vừa đủ, hậu vị chua thanh",
       "status": "Còn bán"
     },
     {
-      "id": 19,
+      "id": 14,
       "name_cafe": "Cafe Hạt Rang Carraro Globo Arabica",
       "price": 700000,
       "discount": 10,
       "stock": 5,
       "unit": "VND",
-      "img": "cafe-hat-rang-carraro-globo-arabica.png",
-      "desc": "Chua nhẹ, kết hợp mùi hương tự hoa nhài và cánh hoa hồng",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe-hat-rang-carraro-globo-arabica.png",
+      "desc": "Vị chua nhẹ, kết hợp mùi hương hoa nhài và cánh hoa hồng",
       "status": "Hết hàng"
     },
     {
-      "id": 20,
+      "id": 15,
       "name_cafe": "Cafe Hạt Rang Arabica Cầu Đất",
       "price": 150000,
       "discount": 5,
       "stock": 50,
       "unit": "VND",
-      "img": "cafe-hat-rang-arabica-cau-dat.jpg",
-      "desc": "Nổi bật cùng vị chua hương thơm trái cây nhẹ nhàng",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/beans/cafe-hat-rang-arabica-cau-dat.jpg",
+      "desc": "Nổi bật vị chua cùng hương trái cây nhẹ nhàng",
       "status": "Còn bán"
     }
   ],
 
   "CAFE_DRINKS": [
     {
-      "id": 17,
+      "id": 1,
+      "name_cafe": "Cold Brew",
+      "price": 25000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/cold_brew.png",
+      "desc": "Ngâm lạnh 12-24h, chua nhẹ.",
+      "status": "còn bán"
+    },
+    {
+      "id": 2,
+      "name_cafe": "Cafe kem trứng",
+      "price": 35000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/cafe_kem_trung.png",
+      "desc": "Cafe kết hợp với sữa thơm béo của trứng",
+      "status": "còn bán"
+    },
+    {
+      "id": 3,
+      "name_cafe": "Latte hạnh nhân",
+      "price": 35000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/latte_hanh_nhan.png",
+      "desc": "Dùng sữa hạnh nhân mang lại hương thơm đặc trưng, vị thanh, béo nhẹ.",
+      "status": "còn bán"
+    },
+    {
+      "id": 4,
+      "name_cafe": "Cafe phô mai",
+      "price": 36000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/cafe_pho_mai.png",
+      "desc": "Lớp cream cheese mặn nhẹ phía trên.",
+      "status": "còn bán"
+    },
+    {
+      "id": 5,
+      "name_cafe": "Caramel Frappé",
+      "price": 55000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/Coffe-House/refs/heads/main/assets/img/drinks/caramel_frapp%C3%A9.png",
+      "desc": "Vị ngọt béo, thơm caramel và hơi đắng nhẹ",
+      "status": "còn bán"
+    },
+    {
+      "id": 6,
+      "name_cafe": "Espresso",
+      "price": 65000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/espresso.png",
+      "desc": "Vị đậm, mạnh, hơi đắng và rất thơm",
+      "status": "còn bán"
+    },
+    {
+      "id": 7,
+      "name_cafe": "Bạc Xỉu",
+      "price": 30000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/bac_xiu.png",
+      "desc": "Sữa quyện cùng chút cà phê, mát lạnh, mang lại vị béo ngậy xen lẫn nét đắng nhẹ đầy sảng khoái.",
+      "status": "Còn bán"
+    },
+    {
+      "id": 8,
+      "name_cafe": "Bạc Xỉu Nóng",
+      "price": 28000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/bac_xiu_nong.png",
+      "desc": "Sữa nóng quyện cùng chút cafe mang đến vị béo ngậy nồng nàn và ấm áp",
+      "status": "Còn bán"
+    },
+    {
+      "id": 9,
+      "name_cafe": "Bạc Xỉu Caramel Muối",
+      "price": 45000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/bac_xiu_caramel_muoi.png",
+      "desc": "Kết hợp giữa Robusta đậm đà và Arabica thơm dịu, hòa quyện cùng kem sữa béo mịn",
+      "status": "Còn bán"
+    },
+    {
+      "id": 10,
+      "name_cafe": "Latte Bạc Xỉu",
+      "price": 49000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/latte_bac_xiu.png",
+      "desc": "Sự kết hợp giữa Espresso, sữa tươi béo ngậy và cà phê phin đậm đà, tạo ra một hương vị vừa ngọt nhẹ, vừa đậm đà, dễ uống và mát lạnh.",
+      "status": "Còn bán"
+    },
+    {
+      "id": 11,
+      "name_cafe": "Americano nóng",
+      "price": 45000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/americano_nong.png",
+      "desc": "Espresso pha với nước nóng, vị đậm nhẹ, thơm, dễ uống.",
+      "status": "Còn bán"
+    },
+    {
+      "id": 12,
+      "name_cafe": "Cappuccino đá",
+      "price": 55000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/Coffe-House/refs/heads/main/assets/img/drinks/cappucino_da.png",
+      "desc": "Espresso, sữa và bọt sữa đánh mịn dùng với đá, béo nhẹ mát lạnh.",
+      "status": "Còn bán"
+    },
+    {
+      "id": 13,
+      "name_cafe": "Cappuccino nóng",
+      "price": 55000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/cappucino_nong.png",
+      "desc": "Espresso pha cùng sữa nóng và lớp bọt sữa dày, thơm béo, ấm vị.",
+      "status": "Còn bán"
+    },
+    {
+      "id": 14,
+      "name_cafe": "Cafe sữa đá",
+      "price": 20000,
+      "discount": 0,
+      "stock": "Pha khi khách gọi",
+      "unit": "VND",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/cafe_suada.png",
+      "desc": "Cà phê phin truyền thống cùng sữa đặc",
+      "status": "Còn bán"
+    },
+    {
+      "id": 15,
       "name_cafe": "Cafe Muối",
       "price": 20000,
       "discount": 0,
       "stock": "Pha khi khách gọi",
       "unit": "VND",
-      "img": "cafe_muoi.png",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/cafe_muoi.png",
       "desc": "Cà phê đậm vị kết hợp lớp kem muối béo mịn",
       "status": "Còn bán"
     },
     {
-      "id": 18,
-      "name_cafe": "Cafe Đen Đá",
-      "price": 20000,
+      "id": 16,
+      "name_cafe": "Cafe Đen đá",
+      "price": 15000,
       "discount": 0,
       "stock": "Pha khi khách gọi",
       "unit": "VND",
-      "img": "cafe-den-da.png",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/cafe-den-da.png",
       "desc": "Cafe đậm, truyền thống",
       "status": "Còn bán"
     },
     {
-      "id": 19,
+      "id": 17,
       "name_cafe": "Cafe Đen Nóng",
       "price": 15000,
       "discount": 0,
       "stock": "Pha khi khách gọi",
       "unit": "VND",
-      "img": "cafe-den-nong.png",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/cafe-den-nong.png",
       "desc": "Cafe đậm, truyền thống",
       "status": "Còn bán"
     },
     {
-      "id": 20,
+      "id": 18,
       "name_cafe": "Cacao Sữa",
       "price": 25000,
       "discount": 0,
       "stock": "Pha khi khách gọi",
       "unit": "VND",
-      "img": "cacao-sua-da.png",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/Cacao-sua-da.png",
       "desc": "Vị cacao đậm, sữa béo",
       "status": "Còn bán"
     }
   ],
-
   "REVIEWS": [
+    {
+      "id": 1,
+      "reviews_name": "Châu Gia Kiệt",
+      "category": "Cafe kem trứng",
+      "ranking": 6,
+      "comment": "Vị ngon, dễ uống",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/reviews/cafe_kem_trung_reviews.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "id": 2,
+      "reviews_name": "Phạm Văn Nghĩa",
+      "category": "Cafe phô mai",
+      "ranking": 5,
+      "comment": "Tạm được",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/reviews/cafe_pho_mai_reviews.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "id": 3,
+      "reviews_name": "Nguyễn Bảo Trân",
+      "category": "Cafe Colombia Supremo",
+      "ranking": 5,
+      "comment": "Vị chocolate thanh đậm",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/reviews/coffee_colombia_reviews.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "id": 4,
+      "reviews_name": "Nguyễn Thanh Xuân",
+      "category": "Espresso",
+      "ranking": 3,
+      "comment": "Đắng rõ thơm mạnh hậu vị sâu.",
+      "img": "https://raw.githubusercontent.com/hpuno/Coffe-House/refs/heads/main/assets/img/reviews/espresso_reviews.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "id": 5,
+      "reviews_name": "Trần Hoàng Thịnh",
+      "category": "Bạc xỉu",
+      "ranking": 9,
+      "comment": "Bạc xỉu ngon, không bị quá ngọt, cực kỳ hợp gu mình",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/reviews/bac_xiu_reviews.jpg",
+      "date": "2026-02-09"
+    },
+    {
+      "id": 6,
+      "reviews_name": "Lê Minh Nhí",
+      "category": "Cappuccino nóng",
+      "ranking": 4,
+      "comment": "cafe đậm vị, ngọt béo.",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/drinks/cappucino_nong.png",
+      "date": "2026-02-23"
+    },
+    {
+      "id": 7,
+      "reviews_name": "Nguyễn Anh Thư",
+      "category": "Cafe sữa đá",
+      "ranking": 5,
+      "comment": "Vị ổn, dễ uống mỗi ngày",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/reviews/cafe-sua-da-review.png",
+      "date": "2026-01-24"
+    },
+    {
+      "id": 8,
+      "reviews_name": "Phan Ngọc Hân",
+      "category": "Cacao sữa",
+      "ranking": 5,
+      "comment": "Vị đậm đà, dễ uống",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/reviews/Cacao-sua-review.png",
+      "date": "2026-02-24"
+    },
     {
       "id": 9,
       "reviews_name": "Lê Hoàng Phương",
-      "category": "Cafe Muối",
+      "category": "Cafe muối",
       "ranking": 5,
-      "comment": "Cafe đậm vị, sữa béo. Rất ngon >",
-      "img": "cafe_muoi_ngon.jpg",
+      "comment": "Cafe đậm vị, sữa béo. Rất ngon:>",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/reviews/cafe_muoi_ngon.jpg",
       "date": "2026-02-08"
     },
     {
@@ -109,12 +455,43 @@
       "category": "Bạc Xỉu",
       "ranking": 4,
       "comment": "Ngon",
-      "img": "bac-xiu-reviews.jpg",
+      "img": "https://raw.githubusercontent.com/hpuno/coffe-house/main/assets/img/reviews/bac-xiu-reviews.jpg",
       "date": "2026-02-12"
     }
   ],
-
   "USERS": [
+    {
+      "id": 1,
+      "user_name": "giakiet",
+      "password": "kiet678",
+      "address": "Đồng Tháp",
+      "age": 20,
+      "desc": "Xin chào, tui là Kiệt"
+    },
+    {
+      "id": 2,
+      "user_name": "btran",
+      "password": "btran19",
+      "address": "Cần Thơ",
+      "age": 20,
+      "desc": "Xin chào, tui là Trân"
+    },
+    {
+      "id": 3,
+      "user_name": "ththinh",
+      "password": "thinh66",
+      "address": "Đồng Tháp",
+      "age": 19,
+      "desc": "Xin chào, tui là Thịnh"
+    },
+    {
+      "id": 4,
+      "user_name": "nathu",
+      "password": "thu@123",
+      "address": "Vĩnh Long",
+      "age": 18,
+      "desc": "Xin chào, tui là Thư"
+    },
     {
       "id": 5,
       "user_name": "lehoangphuong",
